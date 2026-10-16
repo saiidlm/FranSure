@@ -1,4 +1,3 @@
-// Owner: Member 1
 import { Outlet } from "react-router-dom";
 
 export default function FranchiseeLayout() {
